@@ -1,4 +1,4 @@
-<h1>Office Friends | Stefan Stax</h1>
+<h1>Office Friends With Hooks | Stefan Stax</h1>
 <h4>React Application | Ideal for entry react developers</h4>
 
 ____
