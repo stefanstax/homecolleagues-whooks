@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/officefriends-whooks/static/css/main.84cec9d8.chunk.css",
-    "main.js": "/officefriends-whooks/static/js/main.36850dee.chunk.js",
-    "main.js.map": "/officefriends-whooks/static/js/main.36850dee.chunk.js.map",
+    "main.css": "/officefriends-whooks/static/css/main.db56dcf8.chunk.css",
+    "main.js": "/officefriends-whooks/static/js/main.9ce68aef.chunk.js",
+    "main.js.map": "/officefriends-whooks/static/js/main.9ce68aef.chunk.js.map",
     "runtime-main.js": "/officefriends-whooks/static/js/runtime-main.fabd1c40.js",
     "runtime-main.js.map": "/officefriends-whooks/static/js/runtime-main.fabd1c40.js.map",
     "static/js/2.841ac7e5.chunk.js": "/officefriends-whooks/static/js/2.841ac7e5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d6062d28.chunk.js": "/officefriends-whooks/static/js/3.d6062d28.chunk.js",
     "static/js/3.d6062d28.chunk.js.map": "/officefriends-whooks/static/js/3.d6062d28.chunk.js.map",
     "index.html": "/officefriends-whooks/index.html",
-    "static/css/main.84cec9d8.chunk.css.map": "/officefriends-whooks/static/css/main.84cec9d8.chunk.css.map",
+    "static/css/main.db56dcf8.chunk.css.map": "/officefriends-whooks/static/css/main.db56dcf8.chunk.css.map",
     "static/js/2.841ac7e5.chunk.js.LICENSE.txt": "/officefriends-whooks/static/js/2.841ac7e5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/officefriends-whooks/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.fabd1c40.js",
     "static/js/2.841ac7e5.chunk.js",
-    "static/css/main.84cec9d8.chunk.css",
-    "static/js/main.36850dee.chunk.js"
+    "static/css/main.db56dcf8.chunk.css",
+    "static/js/main.9ce68aef.chunk.js"
   ]
 }
