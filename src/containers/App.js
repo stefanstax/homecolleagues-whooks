@@ -21,7 +21,7 @@ const App = () => {
       <div className="h-screen flex justify-center items-center text-5xl text-indigo-300 bg-indigo-900"><h1 className="animate-pulse">Loading ...</h1> </div>
     ) : (
       <div className="flex flex-col bg-indigo-900 h-screen">
-        <h1 className="text-4xl sm:text-2xl text-thin mx-auto mt-5 text-white ">Home Colleagues With Hooks</h1>
+        <h1 className="text-4xl sm:text-2xl text-thin mx-auto mt-5 text-center text-white ">Home Colleagues With Hooks</h1>
         <SearchBox searchChange={onSearchChange} />
         <Scroll>
           <ErrorBoundry>
