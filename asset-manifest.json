@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/homecolleagues-whooks/static/css/main.84eef332.chunk.css",
-    "main.js": "/homecolleagues-whooks/static/js/main.72be715d.chunk.js",
-    "main.js.map": "/homecolleagues-whooks/static/js/main.72be715d.chunk.js.map",
+    "main.css": "/homecolleagues-whooks/static/css/main.a773ed40.chunk.css",
+    "main.js": "/homecolleagues-whooks/static/js/main.c65521c1.chunk.js",
+    "main.js.map": "/homecolleagues-whooks/static/js/main.c65521c1.chunk.js.map",
     "runtime-main.js": "/homecolleagues-whooks/static/js/runtime-main.627bcb3b.js",
     "runtime-main.js.map": "/homecolleagues-whooks/static/js/runtime-main.627bcb3b.js.map",
     "static/js/2.841ac7e5.chunk.js": "/homecolleagues-whooks/static/js/2.841ac7e5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d6062d28.chunk.js": "/homecolleagues-whooks/static/js/3.d6062d28.chunk.js",
     "static/js/3.d6062d28.chunk.js.map": "/homecolleagues-whooks/static/js/3.d6062d28.chunk.js.map",
     "index.html": "/homecolleagues-whooks/index.html",
-    "static/css/main.84eef332.chunk.css.map": "/homecolleagues-whooks/static/css/main.84eef332.chunk.css.map",
+    "static/css/main.a773ed40.chunk.css.map": "/homecolleagues-whooks/static/css/main.a773ed40.chunk.css.map",
     "static/js/2.841ac7e5.chunk.js.LICENSE.txt": "/homecolleagues-whooks/static/js/2.841ac7e5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/homecolleagues-whooks/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.627bcb3b.js",
     "static/js/2.841ac7e5.chunk.js",
-    "static/css/main.84eef332.chunk.css",
-    "static/js/main.72be715d.chunk.js"
+    "static/css/main.a773ed40.chunk.css",
+    "static/js/main.c65521c1.chunk.js"
   ]
 }
