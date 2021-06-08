@@ -21,16 +21,16 @@ const App = () => {
       <div className="h-screen flex justify-center items-center text-5xl text-indigo-300 bg-indigo-900"><h1 className="animate-pulse">Loading ...</h1> </div>
     ) : (
       <div className="flex flex-col bg-indigo-900 h-screen">
-        <h1 className="text-4xl text-thin m-auto text-white ">Office Friends With Hooks</h1>
+        <h1 className="text-4xl sm:text-2xl text-thin mx-auto mt-5 text-white ">Home Colleagues With Hooks</h1>
         <SearchBox searchChange={onSearchChange} />
         <Scroll>
           <ErrorBoundry>
             <CardList robots={filteredRobots} />
           </ErrorBoundry>
         </Scroll>
-        <div className="flex flex-wrap w-full justify-center items-center my-10">
-          <div className="w-full lg:w-4/12 2xl:w-3/12 md:w-6/12 flex sm:flex-col md:flex-row lg:flex-row my-3 mx-3 justify-around items-center font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><h4>Built by: Stefan Stax</h4> <a href="https://github.com/stefanstax/officefriends-whooks/"><img className="rounded-full mx-3 lg:my-0 md:my-1 sm:my-5 " src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
-          <div className="w-full lg:w-4/12 2xl:w-3/12 md:w-6/12 flex sm:flex-col md:flex-row lg:flex-row my-3 mx-3 justify-around items-center font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><h4>Check Office Friends Without Hooks</h4> <a href="https://github.com/stefanstax/officefriends"><img className="rounded-full mx-3 lg:my-0 md:my-1 sm:my-5 " src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
+        <div className="w-full mt-5 flex flex-wrap justify-center items-center py-7 bg-gray-900">   
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code</p><a href="https://stefanstax.github.io/homecolleagues-whooks/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code: (Without Hooks)</p><a href="https://stefanstax.github.io/homecolleagues/" target="_blank" rel=" noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a></div>
         </div>
       </div>
     );  
